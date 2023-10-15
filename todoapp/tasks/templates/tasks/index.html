@@ -1,0 +1,11 @@
+{% extends 'tasks/layout.html' %}
+
+{% block cnt %}
+
+    {% for task in data %}
+
+    {{ task.title }}
+
+    {% endfor %}
+
+{% endblock %}
