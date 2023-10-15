@@ -4,8 +4,8 @@
     <facet type="django" name="Django">
       <configuration>
         <option name="rootFolder" value="$MODULE_DIR$" />
-        <option name="settingsModule" value="app/app/settings.py" />
-        <option name="manageScript" value="app/manage.py" />
+        <option name="settingsModule" value="todoapp/todoapp/settings.py" />
+        <option name="manageScript" value="todoapp/manage.py" />
         <option name="environment" value="&lt;map/&gt;" />
         <option name="doNotUseTestRunner" value="false" />
         <option name="trackFilePattern" value="" />
